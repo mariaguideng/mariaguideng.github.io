@@ -1,7 +1,7 @@
 # Site settings
-title: Learning The Things
+title: Maria Guideng
 email: "imlearningthethings@gmail.com"
-description: Maria Guideng
+description: Learning the Things
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://mariaguideng.github.io"
 twitter_username: jekyllrb
